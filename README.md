@@ -9,3 +9,6 @@ Repositório destinado ao desenvolvimento de uma aplicação desktop com a final
 
 # Diagrama de classes
 ![projetoEscalante](https://github.com/user-attachments/assets/8dd15f4e-4b06-4dfa-93bd-1404acce414c)
+
+# Casos de uso
+![casos de uso](https://github.com/user-attachments/assets/96046b6c-eaf2-4f79-867f-477566426676)
