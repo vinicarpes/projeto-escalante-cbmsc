@@ -1,2 +1,11 @@
 # projeto-escalante-cbmsc
 Repositório destinado ao desenvolvimento de uma aplicação desktop com a finalizadade de automatizar os processos de geração de escalas de trabalho do salvamento aquático do 1° Batalhão de Bombeiros MIlitar de Santa Catarina.
+
+# Funcionalidades/características principais
+1. O sistema irá receber um template de planilha com os dados a serem usados (guarda-vidas e praias e suas características conforme o diagrama de classes)
+2. O usuário irá fornecer o valor das diárias (integral e meio período) e o mês da escala
+3. O sistema deverá gerar a escala no modelo usado pela diretoria de finanças, de modo a facilitar a integração com o sistema deles
+4. A aplicação será desenvolvida para desktop com Java e JavaFX.
+
+# Diagrama de classes
+![projetoEscalante](https://github.com/user-attachments/assets/8dd15f4e-4b06-4dfa-93bd-1404acce414c)
