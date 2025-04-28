@@ -8,7 +8,8 @@ Repositório destinado ao desenvolvimento de uma aplicação desktop com a final
 4. A aplicação será desenvolvida para desktop com Java e JavaFX.
 
 # Diagrama de classes
-![projetoEscalante](https://github.com/user-attachments/assets/8dd15f4e-4b06-4dfa-93bd-1404acce414c)
+![class diagram](https://github.com/user-attachments/assets/f47b05a0-b594-4449-9922-1dad2b118748)
+
 
 # Casos de uso
 ![casos de uso](https://github.com/user-attachments/assets/96046b6c-eaf2-4f79-867f-477566426676)
