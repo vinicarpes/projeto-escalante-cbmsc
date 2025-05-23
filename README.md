@@ -16,4 +16,4 @@ Repositório destinado ao desenvolvimento de uma aplicação desktop com a final
 
 # Templates
 1. [Template da planilha de dados a ser preenchida](https://docs.google.com/spreadsheets/d/1n2JCAMsgszVQ-gV24zk-St_NbigV54k5-jFX82fS_BU/edit?usp=sharing)
-2. ![Template da escala gerada](https://docs.google.com/spreadsheets/d/1InQX3i_SwHuzIKLX1drh6k41FbKx1X_4dfjkGI1pwns/edit?usp=sharing)
+2. [Template da escala gerada](https://docs.google.com/spreadsheets/d/1InQX3i_SwHuzIKLX1drh6k41FbKx1X_4dfjkGI1pwns/edit?usp=sharing)
